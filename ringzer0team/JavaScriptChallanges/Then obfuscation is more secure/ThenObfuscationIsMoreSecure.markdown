@@ -1,4 +1,4 @@
-#####[Hashing is more secure](http://ringzer0team.com/challenges/30)
+#####[Hashing is more secure](http://ringzer0team.com/challenges/31)
 #####Answer
 At first seen we wanna brute force the login page and try some passwords but it dosen't work.  
 So we must first see page source, you can use `Ctrl+U` or `F12` key to see page source  

@@ -1,4 +1,4 @@
-#####Client side validation is bad!
+#####[Client side validation is bad!](http://ringzer0team.com/challenges/27)
 #####Answer
 At first seen we wanna brute force the login page and try some users and passwords but it dosen't work.  
 So we must first see page source, you can use `Ctrl+U` or `F12` key to see page source  

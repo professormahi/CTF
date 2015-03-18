@@ -24,6 +24,6 @@ And search for flag `/flag` in the `less` enviroment, finally we find:
   ?GetMultiline@Edit@DirectUI@@QAE_NXZ
   ?GetName@ClassInfoBase@DirectUI@@UBEPBGXZ
 ```  
-There it is: Flag is `F$L%A^G-5bd2510a83e82d271b7bf7fa4e0970d1`
+There it is: Flag is `FLAG-5bd2510a83e82d271b7bf7fa4e0970d1`
 
 Keep calm and capture your life's falgs ;)

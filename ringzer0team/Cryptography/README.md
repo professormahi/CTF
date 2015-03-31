@@ -1,3 +1,3 @@
 ####ringzer0team
-#####Cryptographi challanges
+#####Cryptography challenges
 ######SHA1, MD5, RSA, and so on ;)

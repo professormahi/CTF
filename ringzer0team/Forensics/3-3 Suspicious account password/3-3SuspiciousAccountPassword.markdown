@@ -9,7 +9,7 @@ First we must unzip the file:
   Archive:  5bd2510a83e82d271b7bf7fa4e0970d2.zip
     inflating: 5bd2510a83e82d271b7bf7fa4e0970d1
 ```
-As we see the file is windows memory dump file and [volatility](code.google.com/p/volatility) can monitor the memory dump.  
+As we see the file is windows memory dump file and [volatility](http://code.google.com/p/volatility) can monitor the memory dump.  
 To install `volatility` you must install python and some other python libraries:  
 ```
 $ sudo apt-get install python pip -y

@@ -4,7 +4,7 @@
 After opening the file using [sonic visualiser](http://www.sonicvisualiser.org/) we'll see that the file is stereo and we can see the difference between two channels. We use `Spectogram` for `channel 1` and as you see we'll see a Morse code. Decode it and capture the flag.
 
 NOTE: The Morse code is reverse ;)  
-![pic](/home/mahdi/Pictures/flag.png)  
+![pic](flag.png)  
 
 The Morse is:  
 ```

@@ -23,4 +23,4 @@ The next flag is in the result:
 ```  
 There it is: Flag is `FLAG-66d7724d872da91af56907aea0f6bfb8`
 
-Flags are here to be captured by use ;)
+Flags are here to be captured by us ;)

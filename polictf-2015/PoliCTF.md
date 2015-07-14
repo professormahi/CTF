@@ -15,6 +15,7 @@ john loves riddles, he wants to challenge you to solve this one, will you be abl
 * LIGHTNING  
 You work as a security consultant, and one day a company calls you to solve a curious problem: after one night the company building was hit by a lightning, the vault could no longer be opened with the code, which is 0994. Unfortunately, the vault control hardware is inside the vault itself. You start building a breadboard prototype of the vault circuit, and after a lot of modeling and experiments, you come to the conclusion that the lightning has caused a "stuck at 1" fault on pin 14 of IC6. Based on the circuit diagram you come up with a code that could open the faulty vault. The flag is the concatenation of what appears on the display, and what you have to type in the keyboard. N.B. Flag is not in the format flag{.*}  
 `GPG key: mafdien+Queczygwargel_kainoaKnux`  
+
 Crypto  
 --
 * EXORCISE  
@@ -29,6 +30,7 @@ What do we have here? It seems a normal session between a user and some google s
 Wanna talk with John? Join his supersecret communication channel. Of course it's secure, it uses a brand new hipster handmade cryptocipher! Amazingly unbreakable! The party is on the:  
 `doges.polictf.it:80`  
 `GPG key: oliphushIkDeedTarWodVenEfyockOc2`
+
 Reverse  
 --
 * CRACK ME IF YOU CAN  
@@ -47,6 +49,7 @@ N.B. Unfortunately John The Packer has multiple solution, so if you have a solut
 * EXCEPTIONALLY-OBFUSCATED  
 Yet another license manager trying to protect a propietary application. The main application calls it with a challenge '84563472956326492361085746284624', the license key, and expects a response that is internally called a 'flag'. I wonder if the've implemented it securely with real crypto or it's just some crap hidden behind a bit of security through obscurity. Only one way to find out...   
 `GPG key: DybryepVenarloyRyarEdhobAjElAmoa`
+
 Web
 --
 * JOHN THE TRAVELLER  
@@ -59,6 +62,7 @@ Unfortunatly his best uniform is not on sale for anyone. I know that it is avail
 * MAGIC CHALL  
 I visit this website when I'm sad, contains many magical things that help me to find the solution. Focused on your problem and find "the magic thing" that will help you to solve it.  
 [magic.polictf.it](magic.polictf.it)
+
 Pwnable
 --
 * HANOI AS A SERVICE  
@@ -82,6 +86,7 @@ John is completely drunk and unable to protect his poor stack.. Fortunately he c
 `GPG key: LyromheictyotMeslunidLayttobDoon`  
 You can use the simulator in this server  
 `ssh ctf@vltest.polictf.it oWlnTAzt65wC2snGQ17k`
+
 Forensics
 --
 * JOHN IN THE MIDDLE  

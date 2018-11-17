@@ -1,5 +1,5 @@
-#####[Why not?](http://ringzer0team.com/challenges/34)
-#####Answer
+##### [Why not?](http://ringzer0team.com/challenges/34)
+##### Answer
 At first seen we wanna brute force the login page and try some users and passwords but it dosen't work.  
 So we must first see page source, you can use `Ctrl+U` or `F12` key to see page source  
 After accessing the source we'll search for `script` tag and try to understand the code:   

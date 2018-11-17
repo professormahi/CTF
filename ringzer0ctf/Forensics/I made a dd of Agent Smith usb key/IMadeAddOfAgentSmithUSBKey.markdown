@@ -1,5 +1,5 @@
-#####[I made a dd of Agent Smith usb key](http://ringzer0team.com/challenges/20)
-#####Answer
+##### [I made a dd of Agent Smith usb key](http://ringzer0team.com/challenges/20)
+##### Answer
 
 Here is a 'dd' backup. first we see the contents using `strings` command and search for 'FLAG':
 ```

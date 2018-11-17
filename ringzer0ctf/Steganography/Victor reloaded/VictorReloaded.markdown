@@ -1,5 +1,5 @@
-#####[Victor reloaded](http://ringzer0team.com/challenges/71)
-#####Answer
+##### [Victor reloaded](http://ringzer0team.com/challenges/71)
+##### Answer
 
 The original poem is from `Victor Hugo` that you can find the poem [here](http://poesie.webnet.fr/lesgrandsclassiques/poemes/victor_hugo/viens_une_flute_invisible.html). As you see the poem is different from what we have. So we'll write a `script` to show us the changes.  
 We have two files named `original.txt` and `fake.txt`. First we'll split both files characters and remove some spaces:  

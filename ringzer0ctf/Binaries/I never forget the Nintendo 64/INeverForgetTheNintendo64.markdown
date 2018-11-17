@@ -1,5 +1,5 @@
-#####[I never forget the Nintendo 64](http://ringzer0team.com/challenges/36)
-#####Answer
+##### [I never forget the Nintendo 64](http://ringzer0team.com/challenges/36)
+##### Answer
 
 To crack this binary the best way is to change `RAX` at `0x004006EF`(Where the password checks) and then the flag will be appear.  
 ![cmp](compare.png)  

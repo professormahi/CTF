@@ -1,5 +1,5 @@
-#####[Looking for password file](http://ringzer0team.com/challenges/75)
-#####Answer
+##### [Looking for password file](http://ringzer0team.com/challenges/75)
+##### Answer
 The link say that the php page open files that gives to `page` variable. So we simply use the link bellow instead and read `passwd` file:
 ```
 http://web.ringzer0team.com:13371/index.php?page=/etc/passwd

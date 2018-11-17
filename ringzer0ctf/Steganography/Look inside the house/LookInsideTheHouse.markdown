@@ -1,5 +1,5 @@
-#####[Look inside the house](http://ringzer0team.com/challenges/18)
-#####Answer
+##### [Look inside the house](http://ringzer0team.com/challenges/18)
+##### Answer
 
 To capture this flag it's enough to find the file that has been stored inside the image. To do so we will use applications like `steghide`.  
 To install `steghide`:

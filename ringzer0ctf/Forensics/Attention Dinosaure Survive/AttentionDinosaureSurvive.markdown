@@ -1,5 +1,5 @@
-#####[Attention Dinosaure Survive](http://ringzer0team.com/challenges/92)
-#####Answer
+##### [Attention Dinosaure Survive](http://ringzer0team.com/challenges/92)
+##### Answer
 As you see the file has extension `E01` and the file is `EnCase Image` file. So we must use xmount to mount this image.First we must install `xmount`
 ```
   $ sudo apt-get install xmount -y

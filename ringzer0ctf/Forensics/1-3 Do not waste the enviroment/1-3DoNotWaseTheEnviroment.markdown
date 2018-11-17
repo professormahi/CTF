@@ -1,5 +1,5 @@
-#####[1/3 Do no waste enviroment](http://ringzer0team.com/challenges/86)
-#####Answer
+##### [1/3 Do no waste enviroment](http://ringzer0team.com/challenges/86)
+##### Answer
 
 First we must unzip the file:
 ```

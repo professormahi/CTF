@@ -1,5 +1,5 @@
-#####[Some martian message](http://ringzer0team.com/challenges/25)
-#####Answer
+##### [Some martian message](http://ringzer0team.com/challenges/25)
+##### Answer
 
 Here is the message:
 ```

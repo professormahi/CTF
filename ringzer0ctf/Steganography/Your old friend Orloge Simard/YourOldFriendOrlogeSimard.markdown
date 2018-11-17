@@ -1,5 +1,5 @@
-#####[Your old friend Orloge Simard](http://ringzer0team.com/challenges/106)
-#####Answer
+##### [Your old friend Orloge Simard](http://ringzer0team.com/challenges/106)
+##### Answer
 
 After opening the file using [sonic visualiser](http://www.sonicvisualiser.org/) we'll see that the file is stereo and we can see the difference between two channels. We use `Spectogram` for `channel 1` and as you see we'll see a Morse code. Decode it and capture the flag.
 
@@ -16,4 +16,4 @@ They say that [Einstein](http://en.wikipedia.org/wiki/Albert_Einstein) use [Mors
 
 
 
-####NOTE: SOS in Morse is `...---...`
+#### NOTE: SOS in Morse is `...---...`

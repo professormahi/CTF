@@ -1,5 +1,5 @@
-#####[Hash me please](http://ringzer0team.com/challenges/13)
-#####Answer
+##### [Hash me please](http://ringzer0team.com/challenges/13)
+##### Answer
 As you see we must parse html and `sha-512` the text in 2 sec at first we must download the cipher text as our user.  
 We can use `http://user:password@site.com` but it's not secure and usual, so we can simply use chrome and in the `inspect element > network tab` use `copy as cURL command` as image bellow.  
 ![copy as a cURL command](curl.png)  
@@ -21,5 +21,5 @@ curl "http://ringzer0team.com/challenges/13/$r" -H 'Accept: text/html,applicatio
 ```
 Now the flag is in the `final res` page. simply open it by `google-chrome`.
 So the flag is `FLAG-mukgu5g2w932t2kx1nqnhhlhy4`.  
-####NOTE: The curl commands of mine are wrong and you can not use them directly ;), And the sample code attached :D
+#### NOTE: The curl commands of mine are wrong and you can not use them directly ;), And the sample code attached :D
 Keep calm while solving coding challenges :D

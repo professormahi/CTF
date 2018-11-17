@@ -1,5 +1,5 @@
-#####[Can you see through the star](http://ringzer0team.com/challenges/110)
-#####Answer
+##### [Can you see through the star](http://ringzer0team.com/challenges/110)
+##### Answer
 
 After running the `executable` file we understand that we need to know the text of `mask text box`. To the code of executable file we can simply use `Telerik Just Decompile app` that you can download from [here](http://www.telerik.com/products/decompiler.aspx) after installing `Just decompile app` and dragging `.exe` file in it the code will be appear.  
 ```

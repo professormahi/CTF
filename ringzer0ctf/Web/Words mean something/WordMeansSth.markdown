@@ -1,5 +1,5 @@
-#####[Words mean something?](http://ringzer0team.com/challenges/42)
-#####Answer
+##### [Words mean something?](http://ringzer0team.com/challenges/42)
+##### Answer
 In the network tab of inspector we can see `flag` parameter in the cookies that is 0.
 So it seems we must change it to `1` to see the flag.
 

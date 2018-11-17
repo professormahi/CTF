@@ -1,5 +1,5 @@
-#####[Level 4 SysAdmin Linux Level Up](http://ringzer0team.com/challenges/146)
-#####Answer
+##### [Level 4 SysAdmin Linux Level Up](http://ringzer0team.com/challenges/146)
+##### Answer
 At first moment we must login using ssh:  
 ```
   ssh morpheus@for01.ringzer0team.com -p 13375
@@ -75,6 +75,6 @@ Then it's enough to ssh using `id_rsa` file as a key, thus we have:
 ```
 Now in the oracle's shell simply read `flag.txt` file and decode it by a [base64 decoder](http://ringzer0team.com/tool) and the result is `FLAG-GIGs1Wq6V6SsZ9h4aQgpGgdbdP`
 
-#####NOTE: It seems the backup file changes each time so some contents are wrong
+##### NOTE: It seems the backup file changes each time so some contents are wrong
 
 Keep calm and code in Linux :O

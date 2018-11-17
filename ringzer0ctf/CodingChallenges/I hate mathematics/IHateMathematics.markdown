@@ -1,5 +1,5 @@
-#####[I hate mathematics](http://ringzer0team.com/challenges/32)
-#####Answer
+##### [I hate mathematics](http://ringzer0team.com/challenges/32)
+##### Answer
 
 The page ask us to compute the mathematical problem less than two minutes. First we'll use chrome `copy as a Curl` to send the request then. Then we'll use `Perl regex` to find the equation then use `bc` to compute the equation and then resend the result to page and gives the flag(code is [here](compute.sh)):  
 ```bash
@@ -28,6 +28,6 @@ curl "http://ringzer0team.com/challenges/32/$res" -H 'Accept: text/html,applicat
 And we open the `result` file using `firefox` and the flag is:  
 `FLAG-JsxIhjHJekAiVaxJlNe2PAYZ`
 
-######"There is more Unix-nature in one line of shell script than there is in ten thousand lines of C.", Master Foo, [Rootless Root](http://catb.org/esr/writings/unix-koans/), Eric Steven Raymond
+###### "There is more Unix-nature in one line of shell script than there is in ten thousand lines of C.", Master Foo, [Rootless Root](http://catb.org/esr/writings/unix-koans/), Eric Steven Raymond
 
 Happy capturing 3 points flag ;)

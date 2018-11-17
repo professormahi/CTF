@@ -1,4 +1,4 @@
-###JOHN IN THE MIDDLE
+### JOHN IN THE MIDDLE
 ##### 100 points
 Question
 --
@@ -21,4 +21,4 @@ Between all files `logo` looks strange:
 So we must check logo(changing threshhold):  
 
 ![gimp](gimp.png)
-#####Flag: `flag{J0hn_the_Sn1ff3r}`
+##### Flag: `flag{J0hn_the_Sn1ff3r}`

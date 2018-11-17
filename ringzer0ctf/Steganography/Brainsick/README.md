@@ -1,7 +1,7 @@
-####ringzer0team
-#####Steganography challenges
-######Brainsick
-######link: http://ringzer0team.com/challenges/122
+#### ringzer0team
+##### Steganography challenges
+###### Brainsick
+###### link: http://ringzer0team.com/challenges/122
 
 Some images are more than one image :D, and this image is so. To find the other file or image in a specific file we can use [foremost](http://foremost.sourceforge.net/) or for image files you can use [binwalk](http://binwalk.org/)
 

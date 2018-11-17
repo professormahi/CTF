@@ -1,5 +1,5 @@
-#####[Ask your grandpa!](http://ringzer0team.com/challenges/172)
-#####Answer
+##### [Ask your grandpa!](http://ringzer0team.com/challenges/172)
+##### Answer
 
 We can easily search the picture at `google` and understand that the image is from a [Punch Card](https://en.wikipedia.org/wiki/Punched_card). And we reach a table that can help us to convert the punch card to text:  
 ```

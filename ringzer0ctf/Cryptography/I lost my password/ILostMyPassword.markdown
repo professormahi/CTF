@@ -1,5 +1,5 @@
-#####[I lost my password](http://ringzer0team.com/challenges/51)
-#####Answer
+##### [I lost my password](http://ringzer0team.com/challenges/51)
+##### Answer
 
 Unarchive file after downloading:  
 ```

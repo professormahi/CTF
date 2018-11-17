@@ -1,9 +1,9 @@
-####ringzer0team
-#####Coding Challenges
-######Hash me please
-######link: http://ringzer0team.com/challenges/172
+#### ringzer0team
+##### Coding Challenges
+###### Hash me please
+###### link: http://ringzer0team.com/challenges/172
 
-######Readings  
+###### Readings  
 * https://en.wikipedia.org/wiki/Punched_card
 * http://itlaw.wikia.com/wiki/Punched_card
 * http://www.masswerk.at/keypunch/

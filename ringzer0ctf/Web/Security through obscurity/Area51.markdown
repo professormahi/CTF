@@ -1,5 +1,5 @@
-#####[Security through obscurity!](http://ringzer0team.com/challenges/45)
-#####Answer
+##### [Security through obscurity!](http://ringzer0team.com/challenges/45)
+##### Answer
 
 As you see The message is `You don't have admin access.` and there is cookie named `AUTH` like:  
 ```

@@ -1,5 +1,5 @@
-#####[Windows x86 reversing is cool](http://ringzer0team.com/challenges/28)
-#####Answer
+##### [Windows x86 reversing is cool](http://ringzer0team.com/challenges/28)
+##### Answer
 
 After opening the `.exe` file using [IDA](https://www.hex-rays.com/products/ida/), in the graph view we can understand that the length of key is `6`:  
 ![len](len.png)  

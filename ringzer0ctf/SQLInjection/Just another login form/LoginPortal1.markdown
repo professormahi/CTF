@@ -1,5 +1,5 @@
-#####[Just another login form](http://ringzer0team.com/challenges/124)
-#####Answer
+##### [Just another login form](http://ringzer0team.com/challenges/124)
+##### Answer
 
 There is a `LDAP` server that check queries and we can use `admin` and `*` as username and password. So the flag is:
 ```

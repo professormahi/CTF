@@ -1,3 +1,3 @@
 #### ringzer0team
 ##### Steganography challenges
-###### Processing images, ... :D
+###### Processing images, voices, video ... :D

@@ -1,5 +1,5 @@
-#####[Password reset](http://ringzer0team.com/challenges/113)
-#####Answer
+##### [Password reset](http://ringzer0team.com/challenges/113)
+##### Answer
 
 As you see we must reset password for `admin` after requesting for reset you'll see the message bellow:
 ```

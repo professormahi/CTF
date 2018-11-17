@@ -1,4 +1,4 @@
-###HANOI AS A SERVICE  
+### HANOI AS A SERVICE  
 ##### 50 points
 Question
 --
@@ -86,4 +86,4 @@ How many disks does your tower have?
 flag{Pr0gramm1ng_in_l0g1c_1s_c00l}
 ```  
 
-#####Flag: `flag{Pr0gramm1ng_in_l0g1c_1s_c00l}`
+##### Flag: `flag{Pr0gramm1ng_in_l0g1c_1s_c00l}`

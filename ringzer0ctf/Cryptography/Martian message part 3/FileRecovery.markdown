@@ -1,5 +1,5 @@
-#####[Martian message part 3](http://ringzer0team.com/challenges/26)
-#####Answer
+##### [Martian message part 3](http://ringzer0team.com/challenges/26)
+##### Answer
 
 It was a hard problem so we use `hint` ;). It says we must base64 decode the message and then we must crack the `single-byte XOR key` message.  
 ```
@@ -49,6 +49,6 @@ $ xor 454f42442e37696771343b31696b62353169624f4f303b3a343152 0303030303030303030
 ```
 So the flag is `FLAG-4jdr782jha62jaLL38972Q`.
 
-######NOTE: To convert hex and string together you can use [this](hexConvert.py)
+###### NOTE: To convert hex and string together you can use [this](hexConvert.py)
 
 Sometimes we can use hints ;)

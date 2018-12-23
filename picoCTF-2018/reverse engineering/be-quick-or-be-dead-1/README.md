@@ -6,5 +6,7 @@
 use `gdb` with one of these extensions: `pwndbg` or `peda`.</br>
 run the program with `gdb` these extensions handle the exceptions.
 </br>
-or you can edit this file with radare2 and catch the flag
+or you can edit this file with `radare2` and catch the flag
+</br>
+*FLAG*`picoCTF{why_bother_doing_unnecessary_computation_402ca676}`
 

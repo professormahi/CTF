@@ -31,7 +31,7 @@ use `objdump`; on `func` you can see `$epb` has `0x2C` length.</br>
 in this program, memory schema is like this:
 ```
 |--------------------| High address
-|       	            |
+|       	         |
 |--------------------|
 |  int key (4 Bytes) | <- method parameters
 |--------------------|
@@ -40,11 +40,11 @@ in this program, memory schema is like this:
 |   sebp (4 Bytes)   | <- saved ebp
 |--------------------|
 |                    |
-|        ebp		       |
+|        ebp		 |
 |    (0x2C Bytes)    |
-|           	        |
+|           	     |
 |--------------------|
-|              		    |
+|              		 |
 |--------------------| Low address
 ```
  so after you underestand that you can write code like [this](https://gist.github.com/Aseyed/db9c9685fef7f3b9399378f868aff3a3#file-pwnable-kr_bof-py) </br>

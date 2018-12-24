@@ -47,6 +47,6 @@ in this program, memory schema is like this:
 |                    |
 |--------------------| Low address
 ```
- so after you underestand that you can write code like [this](https://gist.github.com/Aseyed/db9c9685fef7f3b9399378f868aff3a3#file-pwnable-kr_bof-py) </br>
+ so after you underestand that you can write a code like [this](https://gist.github.com/Aseyed/db9c9685fef7f3b9399378f868aff3a3#file-pwnable-kr_bof-py) </br>
  run the code with python2 after that you can run `cat flag` to catch the flag
 

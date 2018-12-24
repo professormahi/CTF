@@ -1,7 +1,7 @@
 #### pwnable-kr
 ##### Toddler's Bottle | collision challenge
 **Note** </br>
-I was so tired to wire a writeup :)</br>
+I was so tired to write a writeup :)</br>
 so i put some links to others writeups :)
 
 ##### To read

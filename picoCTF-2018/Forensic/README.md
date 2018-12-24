@@ -1,3 +1,4 @@
 #### picoctf
-##### Cryptography challenges
-###### caesar,substitution, SHA1, MD5, RSA, and so on ;)
+##### Forensics challenges
+###### work with system files and some secret files and ...
+###### use some tools like hexdump, hexedit, files, strings, binwalk, foremost, testdisk, ...

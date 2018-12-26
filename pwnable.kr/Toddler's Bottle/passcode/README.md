@@ -1,5 +1,5 @@
 #### pwnable-kr
-##### Toddler's Bottle | collision challenge
+##### Toddler's Bottle | passcode challenge
 **Note** </br>
 I was so tired to write a writeup :)</br>
 so i put some links to others writeups :)

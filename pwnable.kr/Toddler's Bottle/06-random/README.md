@@ -10,5 +10,5 @@ Because there is no random seed, the `rand` function give us a fixed number ever
 Now you just need to XOR random number with `0xdeadbeef` to achieve the key.
 
 ##### read about random
-* (random number aren't really random) [https://www.nrjfl0w.org/index.php/2016/09/11/pwnable-kr-random-number-arent-really-random/]
+* [random number aren't really random](https://www.nrjfl0w.org/index.php/2016/09/11/pwnable-kr-random-number-arent-really-random/)
 

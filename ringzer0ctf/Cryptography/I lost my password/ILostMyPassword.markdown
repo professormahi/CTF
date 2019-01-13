@@ -44,4 +44,4 @@ Now we save the code as `gpp-decrypt-string.rb` and run it in terminal:
   LocalRoot!
 ```  
 So the flag is `LocalRoot!`.  
-Be calm and enjoy 3 points. ;)  
+
